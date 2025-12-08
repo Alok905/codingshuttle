@@ -1,7 +1,6 @@
 package com.bakery.module1task.syrup;
 
 
-
 public class StrawberrySyrup implements Syrup{
     private final String syrupType;
 

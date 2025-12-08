@@ -1,6 +1,5 @@
 package com.bakery.module1task.frosting;
 
-
 public class StrawberryFrosting implements Frosting{
     private final String frostingType;
 
