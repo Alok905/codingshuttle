@@ -8,6 +8,9 @@ class Module1IntroductionApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("#############################");
+		System.out.println("Alok is running some tests.");
+		System.out.println("#############################");
 	}
 
 }
