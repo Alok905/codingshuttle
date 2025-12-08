@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Module1taskApplication implements CommandLineRunner {
 	public final CakeBaker cakeBaker;
 
-	@Autowired
+
 	public Module1taskApplication(CakeBaker cakeBaker) {
 		this.cakeBaker = cakeBaker;
 	}
